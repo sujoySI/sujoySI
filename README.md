@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sujoySI
 - 👀 I’m interested in Game Development, Hardware Development, Gaming
-- 🌱 I’m currently learning Unity Game Engine , Arduino and ESP8266 based IoT system
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Unity Game Engine, Arduino and ESP8266-based IoT system
+- 💞️ I want to collaborate on any Game, 3D Modelling in Blender, Video Editing in Da Vinci Resolve and Filmora.
 - 📫 How to reach me On Twitter @900sujoysinha
 
 <!---
