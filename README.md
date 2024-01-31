@@ -5,7 +5,6 @@
 -  How to reach me:
 -  On Twitter @900sujoysinha
 -  On Discord blablabla900
--  
 
 <!---
 sujoySI/sujoySI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
